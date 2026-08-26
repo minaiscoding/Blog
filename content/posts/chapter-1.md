@@ -1,8 +1,8 @@
 ---
 date: 2017-04-09T10:58:08-04:00
 description: "The Grand Hall"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-images: ["/images/Pope-Edouard-de-Beaumont-1844.jpg"]
+featured_image: "https://i.pinimg.com/1200x/ed/87/da/ed87daafde3aaf13de21e37f29ffbb17.jpg"
+images: ["https://i.pinimg.com/1200x/ed/87/da/ed87daafde3aaf13de21e37f29ffbb17.jpg"]
 tags: ["scene"]
 categories: "Algeria"
 title: "الدزاير"
