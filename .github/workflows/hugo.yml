@@ -27,12 +27,12 @@ jobs:
       # Set the build time zone
       TZ: Europe/Oslo
     steps:
-      # - name: Checkout
-      #   uses: actions/checkout@v7
-      #   with:
-      #     submodules: recursive
-      #     fetch-depth: 0
-      #     lfs: false
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          submodules: recursive
+          fetch-depth: 0
+          lfs: false
 
       - name: Setup Pages
         id: pages
@@ -90,12 +90,12 @@ jobs:
             git fetch --unshallow
           fi
 
-      # - name: Initialize Git submodules
-      #   run: |
-      #     if [[ -f .gitmodules ]]; then
-      #       echo "Initializing Git submodules..."
-      #       git submodule update --init --recursive
-      #     fi
+      - name: Initialize Git submodules
+        run: |
+          if [[ -f .gitmodules ]]; then
+            echo "Initializing Git submodules..."
+            git submodule update --init --recursive
+          fi
 
       - name: Install Node.js dependencies
         run: |
