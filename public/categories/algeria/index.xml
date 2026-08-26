@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Scene on Amina&#39;s digital Blog</title>
-		<link>http://localhost:1313/tags/scene/</link>
-		<description>Recent content in Scene on Amina&#39;s digital Blog</description>
+		<title>Algeria on Amina&#39;s digital Blog</title>
+		<link>http://localhost:1313/categories/algeria/</link>
+		<description>Recent content in Algeria on Amina&#39;s digital Blog</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -14,7 +14,7 @@
 		
 			<lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/categories/algeria/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>الدزاير</title>
 				<link>http://localhost:1313/posts/chapter-1/</link>

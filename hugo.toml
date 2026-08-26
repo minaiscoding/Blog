@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
-title = "A Hugo Site"
+title = "Amina's digital Blog"
 copyright = "This is a customized copyright."
 theme = "diary"
 
@@ -10,7 +10,8 @@ theme = "diary"
   changefreq = "always"
   filename = "sitemap.xml"
   priority = 0.5
-
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 # Google Analytics
 [services]
   [services.googleAnalytics]
@@ -29,9 +30,10 @@ theme = "diary"
     tabWidth = 4
 
 [params]
-subtitle = "Themed by Diary."
+subtitle = "a computer system engineer documenting life experiences"
 enableGitalk = false
 enableGiscus = true
+favicon = "images/favicon.ico"
 
 
 # Microsoft Clarity (https://clarity.microsoft.com/) is a free user behavior recording and analytics tool

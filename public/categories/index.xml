@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Categories on A Hugo Site</title>
+		<title>Categories on Amina&#39;s digital Blog</title>
 		<link>http://localhost:1313/categories/</link>
-		<description>Recent content in Categories on A Hugo Site</description>
+		<description>Recent content in Categories on Amina&#39;s digital Blog</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -12,9 +12,16 @@
 			<copyright>This is a customized copyright.</copyright>
 		
 		
-			<lastBuildDate>Thu, 14 Nov 2019 11:25:05 -0400</lastBuildDate>
+			<lastBuildDate>Wed, 26 Aug 2026 14:55:34 +0100</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Reviews</title>
+				<link>http://localhost:1313/categories/reviews/</link>
+				<pubDate>Wed, 26 Aug 2026 14:55:34 +0100</pubDate>
+				<guid>http://localhost:1313/categories/reviews/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Chinese</title>
 				<link>http://localhost:1313/categories/chinese/</link>
@@ -34,6 +41,13 @@
 				<link>http://localhost:1313/categories/story/</link>
 				<pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
 				<guid>http://localhost:1313/categories/story/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Algeria</title>
+				<link>http://localhost:1313/categories/algeria/</link>
+				<pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+				<guid>http://localhost:1313/categories/algeria/</guid>
 				<description></description>
 			</item>
 	</channel>

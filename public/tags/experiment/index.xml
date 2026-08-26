@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Experiment on Amina&#39;s digital Blog</title>
+		<link>http://localhost:1313/tags/experiment/</link>
+		<description>Recent content in Experiment on Amina&#39;s digital Blog</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>This is a customized copyright.</copyright>
+		
+		
+			<lastBuildDate>Wed, 26 Aug 2026 14:55:34 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/experiment/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Scrolling</title>
+				<link>http://localhost:1313/posts/scrolling/</link>
+				<pubDate>Wed, 26 Aug 2026 14:55:34 +0100</pubDate>
+				<guid>http://localhost:1313/posts/scrolling/</guid>
+				<description>&lt;p&gt;Hello world&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
