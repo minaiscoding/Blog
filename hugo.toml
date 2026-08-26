@@ -64,10 +64,10 @@ theme="github-light"
 
 # Please visit https://giscus.app/ to generate settings.
 [params.giscus]
-    data_repo="username/repo"
-    data_repo_id="**************************"    
+    data_repo="minaiscoding/Blog"
+    data_repo_id="R_kgDOUE6yGA"    
     data_category="General"
-    data_category_id="*********************"
+    data_category_id="DIC_kwDOUE6yGM4DEPzq"
     data_mapping="pathname"
     data_strict="0"
     data_reactions_enabled="1"
