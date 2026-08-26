@@ -7,7 +7,7 @@
 
   function loadIndex() {
     if (fuse) return Promise.resolve(fuse);
-    return fetch('/index.json')
+    return fetch('index.json')
       .then(function (res) { return res.json(); })
       .then(function (data) {
         fuse = new Fuse(data, {

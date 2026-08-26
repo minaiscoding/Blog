@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Story on Amina's digital Blog</title><link>http://localhost:1313/Blog/categories/story/</link><description>Recent content in Story on Amina's digital Blog</description><generator>Hugo</generator><language>en-us</language><copyright>This is a customized copyright.</copyright><lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="http://localhost:1313/Blog/categories/story/index.xml" rel="self" type="application/rss+xml"/><item><title>Chapter VI: Esmeralda</title><link>http://localhost:1313/Blog/posts/chapter-6/</link><pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate><guid>http://localhost:1313/Blog/posts/chapter-6/</guid><description>&lt;p&gt;We are delighted to be able to inform the reader, that during the whole of&#10;this scene, Gringoire and his piece had stood firm. His actors, spurred on&#10;by him, had not ceased to spout his comedy, and he had not ceased to&#10;listen to it. He had made up his mind about the tumult, and was determined&#10;to proceed to the end, not giving up the hope of a return of attention on&#10;the part of the public. This gleam of hope acquired fresh life, when he&#10;saw Quasimodo, Coppenole, and the deafening escort of the pope of the&#10;procession of fools quit the hall amid great uproar. The throng rushed&#10;eagerly after them. “Good,” he said to himself, “there go all the&#10;mischief-makers.” Unfortunately, all the mischief-makers constituted the&#10;entire audience. In the twinkling of an eye, the grand hall was empty.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Story on Amina&#39;s digital Blog</title>
+		<link>http://localhost:1313/Blog/categories/story/</link>
+		<description>Recent content in Story on Amina&#39;s digital Blog</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>This is a customized copyright.</copyright>
+		
+		
+			<lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/Blog/categories/story/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Chapter VI: Esmeralda</title>
+				<link>http://localhost:1313/Blog/posts/chapter-6/</link>
+				<pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+				<guid>http://localhost:1313/Blog/posts/chapter-6/</guid>
+				<description>&lt;p&gt;We are delighted to be able to inform the reader, that during the whole of&#xA;this scene, Gringoire and his piece had stood firm. His actors, spurred on&#xA;by him, had not ceased to spout his comedy, and he had not ceased to&#xA;listen to it. He had made up his mind about the tumult, and was determined&#xA;to proceed to the end, not giving up the hope of a return of attention on&#xA;the part of the public. This gleam of hope acquired fresh life, when he&#xA;saw Quasimodo, Coppenole, and the deafening escort of the pope of the&#xA;procession of fools quit the hall amid great uproar. The throng rushed&#xA;eagerly after them. “Good,” he said to himself, “there go all the&#xA;mischief-makers.” Unfortunately, all the mischief-makers constituted the&#xA;entire audience. In the twinkling of an eye, the grand hall was empty.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
