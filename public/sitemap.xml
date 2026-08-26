@@ -3,37 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-26T14:55:34+01:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-08-26T14:55:34+01:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/experiment/</loc>
-    <lastmod>2026-08-26T14:55:34+01:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-08-26T14:55:34+01:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/reviews/</loc>
-    <lastmod>2026-08-26T14:55:34+01:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/scrolling/</loc>
-    <lastmod>2026-08-26T14:55:34+01:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-08-26T14:55:34+01:00</lastmod>
+    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -43,6 +13,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/chinese/</loc>
+    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -109,6 +84,14 @@
   </url><url>
     <loc>http://localhost:1313/posts/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/experiment/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/reviews/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
