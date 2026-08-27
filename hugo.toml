@@ -2,7 +2,7 @@ baseURL = "https://minaiscoding.github.io/Blog/"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 local = "en-us"
 title = "Amina's digital Blog"
-copyright = "This is a customized copyright."
+copyright = "amina khadir"
 theme = "diary-search"
 
 # Generate sitemap in the public folder
