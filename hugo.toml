@@ -1,6 +1,6 @@
 baseURL = "https://minaiscoding.github.io/Blog/"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
-languageCode = "en-us"
+local = "en-us"
 title = "Amina's digital Blog"
 copyright = "This is a customized copyright."
 theme = "diary-search"
