@@ -3,7 +3,7 @@ DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, 
 languageCode = "en-us"
 title = "Amina's digital Blog"
 copyright = "This is a customized copyright."
-theme = "diary"
+theme = "diary-search"
 
 # Generate sitemap in the public folder
 [sitemap]
