@@ -4,7 +4,7 @@ draft = false
 title = 'My draw a box experience: introduction'
 featured_image = 'https://cdn.discordapp.com/attachments/1548350003792318487/1548350064785756321/IMG_20260912_160946.jpg?ex=6aa6bcde&is=6aa56b5e&hm=b70a18bf95b8c068cd07debde2bd5f4a6bcec2e292ff81c78fa727a13facc2c0&'
 
-Description = 'Documenting the first day of my draw a box experience'
+Description = 'Documenting the first day of my drawabox experience'
 tags = ["reviews"]
 categories = "Drawing" 
 
